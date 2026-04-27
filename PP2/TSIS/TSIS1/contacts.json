@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Alice",
+    "email": "alice@example.com",
+    "birthday": "1990-01-01",
+    "group": "Family",
+    "phones": [
+      {
+        "phone": "123456789",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Bob",
+    "email": "bob@work.com",
+    "birthday": "1985-05-15",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "987654321",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "name": "Charlie",
+    "email": "charlie@gmail.com",
+    "birthday": null,
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "555555555",
+        "type": "home"
+      }
+    ]
+  }
+]
